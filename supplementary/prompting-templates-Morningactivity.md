@@ -49,6 +49,8 @@ I want to create **[OUTPUT]**to **[GOAL]** for **[AUDIENCE]**. You should ask me
 ***Example 1:***
 I want to create a workshop plan to develop a strategic plan for my organization for the coming year. You should ask me questions until you have enough information to create the lesson plan. Ask one question at a time.
 
+----
+
 #### 4.2 TEMPLATE (5 whys):
 
 Act like a **[ROLE]**. Begin by identifying the **[PROBLEM, CHALLENGE, GOALS]** related to **[TOPIC/OUTPUT]**. 
@@ -58,6 +60,8 @@ Repeat the question 'why?' four more times, digging deeper into each layer to un
 
 ***Example 2:***
 Act like a Root Cause Analyst. Begin by identifying the problem related to [topic]. Now, ask 'why?' this problem exists. Repeat the question 'why?' four more times, digging deeper into each layer to uncover the root cause. Summarize your findings and suggest potential solutions.
+
+----
 
 #### 4.3 TEMPLATE (WWW - identify Why, Who and What ):
 
