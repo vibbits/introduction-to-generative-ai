@@ -127,21 +127,33 @@ Welcome to our @tutor workshop! We are very happy to have you here.
 
 This is the @edition edition of this workshop, jointly organised by the VIB Bioinformatics Core and ELIXIR Belgium.
 
-- The first session (12 & 13 October 2023) is dedicated to Containers (Docker & Singularity) which are great tools for code portability and reproducibility of your analysis. You will learn how to use containers and how to build a container from scratch, share it with others and how to re-use and modify existing containers.
+Over the last few months, the rapid establishment of generative AI and Large Language Models (LLM) has opened new frontiers in a variety of domains. This hands-on class aims to provide you the necessary skills to effectively use this cutting-edge technology in a interdisciplinary way. With two formats of participation possible, we wish to offer opportunities for everyone to build enough knowledge to a variety of applications. In the morning you will follow an introduction on ethics, ownership and general hands-on application of generative AI that can be used holistically. This is meant for anyone including admin, support, and others to use for their work or personal interests. After a general view, we will navigate deeper in the use of generative AI for research, from scientific writing to analysis, we will introduce how genAI can be supportive in this process. We will cover different aspects of using ChatBots powered with LLMs, including the ethical and ownership aspects, the theoretical background and several examples of practical application among which how to strategically prompt your request for text generation in any context, how to generate high-quality content for research papers, and grant applications.
 
-The **presentation** which goes alongside this material can be found [here](link).
+The **presentation** which goes alongside this material can be found [in the Lesson overview: Slides](#2) .
 
 ## Proposed Schedule
 
 Schedule day 1:
 
 - 9:30 - 11:00 - session Introduction to Generative AI
+   - Brief historical background: from first AI to generative AI
+   - Mapping generative AI tools
+   - Focus on Large Language Models (LLMs)
 - 11:00 - 11:15 - break
 - 11:15 - 12:45 - session Introduction to Generative AI
+   - Tools for genAI (CoPilot, Perplexity and other competitors)
+   - Prompt engineering
+   - Ethical considerations
+   - Ownership, copyright and authenticity
 - 12:45 - 13:45 - lunch
 - 13:45 - 15:15 - session Generative AI for Writing
+   - Conducting a literature review
+   - Finding research gaps
+   - Writing an article (storytelling, etc.)
+   - Presenting the outcome
 - 15:15 - 15:30 - break
 - 15:30 - 17:00 - session Generative AI for Scripting
+   - Doing quantitative research
 
 </section>
 
@@ -224,15 +236,7 @@ Please cite as:
 
 Here are some great tips for learning and to get inspired for writing your own pipelines:
 
-- Nextflow's official documentation ([link](https://www.nextflow.io/docs/latest/index.html))
-- Reach out to the community on Slack ([link](https://www.nextflow.io/slack-invite.html))
-- Curated collection of patterns ([link](https://github.com/nextflow-io/patterns))
-- Workshop focused on DSL2 developed by CRG Bioinformatics Core ([link](https://github.com/biocorecrg/ELIXIR_containers_nextflow))
-- Tutorial exercises (DSL1) developed by Seqera ([link](https://github.com/seqeralabs/nextflow-tutorial))
-- Curated ready-to-use analysis pipelines by NF-core ([link](https://nf-co.re/))
-- Model example pipeline on Variant Calling Analysis with NGS RNA-Seq data developed by CRG ([link](https://github.com/CRG-CNAG/CalliNGS-NF))
-- Tutorial by Andrew Severin ([link](https://bioinformaticsworkbook.org/dataAnalysis/nextflow/02_creatingAworkflow.html#gsc.tab=0))
-- Nextflow community basic training ([link](https://training.nextflow.io/basic_training/))
+- to be added after the course
 
 # About us
 
