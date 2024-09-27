@@ -80,6 +80,7 @@ To do this we would like you to ask us questions to clarify the why this project
 You are **[DEFINE ROLE]**. Write a paragraph of max **[PROMPT LIMIT SIZE]** TO **[GOAL/OUTPUT]**. Assume you are writing for **[AUDIENCE]**.
 
 /### style ###
+
 **[AVOID/USE]** fancy jargon. Write **[FORMALLY/NORMALLY/]**. 
 
 You are **[FORBIDDEN]** to use complex English words. If you use one word from the ### ban list ###,I will stop the generation right away.
@@ -87,18 +88,26 @@ Or
 You **[MUST]** use **[AT LEAST X WORDS]** from the ###keep list###.
 
 /### ban list ###
+
 Hurdles, Bustling, Harnessing, Unveiling the power, Realm, Depicted, Demistify, Insurmountable, New Era, Poised, Unravel, Entanglement, Unprecedented, Eerie connection, unliving, Beacon, Unleash, Delve, Enrich, Multifaced, Elevate, Discover, Supercharge, Unlock, Unleash, Tailored, Elegant, Delve, Dive, Ever-evolving, pride, Realm, Meticulously, Grappling, Weighing, Picture, Architect, Adventure, Journey, Embark, Navigate, Navigation, dazzle, tapestry.
+
 /### ban list ###
+
 /### style ###
 
 ***Example :***
 You are a researcher offering a training. Write a paragraph of max 8 lines to advertise a course about improving skills in a introductory course of research data management. Assume you are writing for master and phd students.
 
 /### style ###
+
 Avoid fancy jargon. Write normally. You are forbidden to use complex English words. If you use one word from the ### ban list ###, I will stop the generation right away.
+
 /### ban list ###
+
 Hurdles, Bustling, Harnessing, Unveiling the power, Realm, Depicted, Demistify, Insurmountable, New Era, Poised, Unravel, Entanglement, Unprecedented, Eerie connection, unliving, Beacon, Unleash, Delve, Enrich, Multifaced, Elevate, Discover, Supercharge, Unlock, Unleash, Tailored, Elegant, Delve, Dive, Ever-evolving, pride, Realm, Meticulously, Grappling, Weighing, Picture, Architect, Adventure, Journey, Embark, Navigate, Navigation, dazzle, tapestry.
+
 /### ban list ###
+
 /### style ###
 
 ## 6. PROMPT A PROMPT
