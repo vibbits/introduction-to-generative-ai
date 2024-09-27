@@ -75,7 +75,7 @@ To do this we would like you to ask us questions to clarify the why this project
 
 You are **[DEFINE ROLE]**. Write a paragraph of max **[PROMPT LIMIT SIZE]** TO **[GOAL/OUTPUT]**. Assume you are writing for **[AUDIENCE]**.
 
-### style ###
+/### style ###
 **[AVOID/USE]** fancy jargon. Write **[FORMALLY/NORMALLY/]**. 
 
 You are **[FORBIDDEN]** to use complex English words. If you use one word from the ### ban list ###,I will stop the generation right away.
