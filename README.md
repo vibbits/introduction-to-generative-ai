@@ -1,8 +1,8 @@
 <!--
 
-author:   name last_name
+author:   Alexander Botzki, Bruna Piereck
 email:    training@vib.de
-version:  2.0.0
+version:  1.0.0
 language: en
 narrator: UK English Female
 
@@ -24,7 +24,7 @@ link:     https://fonts.googleapis.com/css2?family=Saira+Condensed:wght@300&disp
 link:     https://fonts.googleapis.com/css2?family=Open+Sans&display=swap
 link:     https://raw.githubusercontent.com/vibbits/material-liascript/master/vib-styles.css
 
-tutor:    Neuropixels
+tutor:    Strategic use of Generative AI
 edition:  1st 
 
 @JSONLD
