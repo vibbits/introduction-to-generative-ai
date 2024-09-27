@@ -58,18 +58,21 @@ orcid:    [@0](@1)<!--class="orcid-logo-for-author-list"-->
     "@type": "CreativeWork",
     "@id": "https://bioschemas.org/profiles/TrainingMaterial/1.0-RELEASE"
   },
-  "description": "TeSS, how can I help you? This is our interactive hands-on course about efficient use of the ELIXIR TeSS platform.",
-  "keywords": "FAIR, OPEN, Bioinformatics, Teaching, TeSS",
-  "name": "TeSS, how can I help you?",
+  "description": "Strategic Use of Generative AI - this is our hands-on course for general use and research-specific use of Generative AI.",
+  "keywords": "FAIR, OPEN, Generative AI, Writing, Ethics, Scripting",
+  "name": "Strategic Use of Generative AI",
   "license": "https://creativecommons.org/licenses/by/4.0/",
   "educationalLevel": "beginner",
   "competencyRequired": "none",
   "teaches": [
-    "search events and material in TeSS via direct and faceted search",
-    "add manually and automatically events and material to TeSS",
-    "extract events and material from TeSS by using TeSS widgets"
+    "Providing a background of the evolution of generative AI models",
+    "Providing an overview of the features and capabilities of genAI",
+    "Analysing prompt engineering techniques for different purposes",
+    "Exploring several applications of genAI in academic research (afternoon session)", 
+    "Providing hands-on experience with using different genAI tools for work and research purposes",
+    "Critically evaluating the AI generated outcomes"
   ],
-  "audience": "training providers",
+  "audience": "researchers",
   "inLanguage": "en-US",
   "learningResourceType": [
     "tutorial"
@@ -81,25 +84,13 @@ orcid:    [@0](@1)<!--class="orcid-logo-for-author-list"-->
     },
     {
       "@type": "Person",
-      "name": "Olivier Sand"
-    },
-    {
-      "@type": "Person",
       "name": "Alexander Botzki"
     }
   ],
   "contributor": [
     {
       "@type": "Person",
-      "name": "Yasmine Maes"
-    },
-    {
-      "@type": "Person",
-      "name": "Finn Bacall"
-    },
-    {
-      "@type": "Person",
-      "name": "Munazah Andrabi"
+      "name": "Christof De Bo"
     }
   ]
 }
@@ -110,11 +101,11 @@ orcid:    [@0](@1)<!--class="orcid-logo-for-author-list"-->
 
 Hello and welcome to our @tutor workshop! We are very happy to have you here.
 
-This is the @edition edition of this workshop, jointly organised by your organisation and ELIXIR.
+This is the @edition edition of this workshop, jointly organised by VIB and ELIXIR.
 
-<img src="./images/cover-genAI.png" width="350" align="center"/>
+<img src="./images/cover-genAI.png" width="650" align="center"/>
 
-Example image to ilustrate the front page of the material. This image was [Designed by macrovector / Freepik](https://www.freepik.com/free-vector/globe-earth-world-icons-vector-white-black_10601425.htm#fromView=author&page=1&position=27&uuid=726a85e1-abc9-4f55-a242-bdb7cd5733f1)
+Example image to ilustrate the front page of the material. This image was designed by Bruna Piereck.
 
 > We are using the interactive Open Educational Resource online/offline course infrastructure called LiaScript.
 > It is a distributed way of creating and sharing educational content hosted on github.
@@ -123,13 +114,9 @@ Example image to ilustrate the front page of the material. This image was [Desig
 
 ## General context
 
-Welcome to our @tutor workshop! We are very happy to have you here.
-
-This is the @edition edition of this workshop, jointly organised by the VIB Bioinformatics Core and ELIXIR Belgium.
-
 Over the last few months, the rapid establishment of generative AI and Large Language Models (LLM) has opened new frontiers in a variety of domains. This hands-on class aims to provide you the necessary skills to effectively use this cutting-edge technology in a interdisciplinary way. With two formats of participation possible, we wish to offer opportunities for everyone to build enough knowledge to a variety of applications. In the morning you will follow an introduction on ethics, ownership and general hands-on application of generative AI that can be used holistically. This is meant for anyone including admin, support, and others to use for their work or personal interests. After a general view, we will navigate deeper in the use of generative AI for research, from scientific writing to analysis, we will introduce how genAI can be supportive in this process. We will cover different aspects of using ChatBots powered with LLMs, including the ethical and ownership aspects, the theoretical background and several examples of practical application among which how to strategically prompt your request for text generation in any context, how to generate high-quality content for research papers, and grant applications.
 
-The **presentation** which goes alongside this material can be found [in the Lesson overview: Slides](#2) .
+The **presentations** which goes alongside this material can be found [in the Lesson overview: Slides](#2) .
 
 ## Proposed Schedule
 
@@ -192,7 +179,7 @@ Schedule day 1:
 >
 > <i class="fa fa-envelope-open-text"></i> **Supporting Materials**:
 > 
-> 1. [Exercises and solutions](https://github.com/vibbits/nextflow-workshop)
+> 1. [Exercises and solutions](https://github.com/vibbits/introduction-to-generative-ai)
 > 2. [Slides morning]()
 > 3. [Slides afternoon]()  
 > 
