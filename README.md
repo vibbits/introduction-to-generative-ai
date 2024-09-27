@@ -214,16 +214,23 @@ Please cite as:
 
 | Chapter | Title                                                   |
 | :---- | :------------------------------------------------         |
-| 0     | [Get ready for the course, instalation and pre-reading](https://liascript.github.io/course/?https://raw.githubusercontent.com/vibbits/introduction-to-generative-ai/refs/heads/main/Chapters/GetReady4training.md) |
+| 0     | [Get ready for the course, installation and pre-reading](https://liascript.github.io/course/?https://raw.githubusercontent.com/vibbits/introduction-to-generative-ai/refs/heads/main/Chapters/GetReady4training.md) |
 | 1     | [Strategic use of generative AI for all](https://liascript.github.io/course/?https://raw.githubusercontent.com/vibbits/introduction-to-generative-ai/refs/heads/main/Chapters/Chapter01.md)                                             |
 | 2     | [Strategic use of generative AI for research](https://liascript.github.io/course/?https://raw.githubusercontent.com/vibbits/introduction-to-generative-ai/refs/heads/main/Chapters/Chapter02.md)                                             |
 
 
 # References
 
-Here are some great tips for learning and to get inspired for writing your own pipelines:
+Here are some great tips for learning and to get inspired for your own use:
 
-- to be added after the course
+* [EC ERA Forum doc - CC-BY](https://research-and-innovation.ec.europa.eu/document/download/2b6cf7e5-36ac-41cb-aab5-0d32050143dc_en?filename=ec_rtd_ai-guidelines.pdf)
+* [Library Toronto](https://onesearch.library.utoronto.ca/copyright/generative-ai-tools-and-copyright-considerations)
+* [tools list Georgetown](https://guides.library.georgetown.edu/ai/tools)
+* [UWaterloo CA June 2024](https://uwaterloo.ca/associate-vice-president-academic/sites/default/files/uploads/documents/genai-overview-final-june-2024.pdf)
+* [University framework on GenAI for research](https://arxiv.org/html/2404.19244v1)
+* [prompting guide from Cape Town university](https://docs.google.com/document/d/1EHMRP4kxADwLsOkHwAbUWQaGD8EGfQ3D/edit)
+* [guide for ethical use in research](https://docs.google.com/document/d/14XaTVheTtr7XpDWX33OthT4piMHnYUfl/edit)
+* [genAI for marketing content creation](https://sciendo.com/article/10.2478/nimmir-2024-0002)
 
 # About us
 
