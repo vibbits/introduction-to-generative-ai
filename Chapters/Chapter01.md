@@ -1,6 +1,6 @@
 <!--
 
-author:   name last_name
+author:   Bruna Piereck
 email:    training@vib.de
 version:  1.0.0
 language: en
@@ -24,7 +24,7 @@ link:     https://fonts.googleapis.com/css2?family=Saira+Condensed:wght@300&disp
 link:     https://fonts.googleapis.com/css2?family=Open+Sans&display=swap
 link:     https://raw.githubusercontent.com/vibbits/material-liascript/master/vib-styles.css
 
-tutor: Neuropixels
+tutor: Strategic use of Generative AI
 edition: 1st 
 
 -->
