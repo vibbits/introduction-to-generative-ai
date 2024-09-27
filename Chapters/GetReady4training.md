@@ -1,6 +1,6 @@
 <!--
 
-author:   name last_name
+author:   Alexander Botzki, Bruna Piereck
 email:    training@vib.de
 version:  1.0.0
 language: en
@@ -35,16 +35,14 @@ Please read this page carefully **before** the start of the workshop.
 
 Please complete the following prior to the course:
 
-- Verify access to https://chat.bing.com (test the login with your VIB or university account)
+* Verify access to https://chat.bing.com (test the login with your VIB or university account)
 
 Create accounts for the following platform or tools:
 
-- https://www.perplexity.ai/
-- https://elicit.com/ https://www.researchrabbit.ai/
-- https://www.researchrabbit.ai/
-- https://posit.cloud/
+* https://www.perplexity.ai/
+* https://elicit.com/ https://www.researchrabbit.ai/
+* https://www.researchrabbit.ai/
+* https://posit.cloud/
  
-Install the desktop application
-
-https://updf.com/
+Install the desktop application: https://updf.com/
  
