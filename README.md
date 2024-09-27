@@ -123,9 +123,9 @@ Example image to ilustrate the front page of the material. This image was [Desig
 
 ## General context
 
-Welcome to our {{workshop_name}} workshop! We are very happy to have you here.
+Welcome to our @tutor workshop! We are very happy to have you here.
 
-This is the {{workshop_edition}} edition of this workshop, jointly organised by the VIB Bioinformatics Core and ELIXIR Belgium.
+This is the @edition edition of this workshop, jointly organised by the VIB Bioinformatics Core and ELIXIR Belgium.
 
 - The first session (12 & 13 October 2023) is dedicated to Containers (Docker & Singularity) which are great tools for code portability and reproducibility of your analysis. You will learn how to use containers and how to build a container from scratch, share it with others and how to re-use and modify existing containers.
 
@@ -135,65 +135,61 @@ The **presentation** which goes alongside this material can be found [here](link
 
 Schedule day 1:
 
-- 9:30 - 11:00 - session
+- 9:30 - 11:00 - session Introduction to Generative AI
 - 11:00 - 11:15 - break
-- 11:15 - 12:45 - session
+- 11:15 - 12:45 - session Introduction to Generative AI
 - 12:45 - 13:45 - lunch
-- 13:45 - 15:15 - session
+- 13:45 - 15:15 - session Generative AI for Writing
 - 15:15 - 15:30 - break
-- 15:30 - 17:00 - session
+- 15:30 - 17:00 - session Generative AI for Scripting
 
 </section>
 
 # Lesson overview
 
-> <i class="fa fa-lock"></i> **License:** [Creative Commons Attribution share alike 4.0 International  License](https://creativecommons.org/licenses/by-sa/4.0/deed.en)
+> <i class="fa fa-lock"></i> **License:** [Creative Commons Attribution 4.0 International  License](https://creativecommons.org/licenses/by/4.0/deed.en)
 >
-> <i class="fa fa-user"></i> **Target Audience:** Researchers, trainers, training providers
+> <i class="fa fa-user"></i> **Target Audience:** Researchers
 >
 > <svg xmlns="http://www.w3.org/2000/svg" height="14" width="16" viewBox="0 0 576 512"><!--!Font Awesome Free 6.5.1 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free Copyright 2023 Fonticons, Inc.--><path d="M384 64c0-17.7 14.3-32 32-32H544c17.7 0 32 14.3 32 32s-14.3 32-32 32H448v96c0 17.7-14.3 32-32 32H320v96c0 17.7-14.3 32-32 32H192v96c0 17.7-14.3 32-32 32H32c-17.7 0-32-14.3-32-32s14.3-32 32-32h96V320c0-17.7 14.3-32 32-32h96V192c0-17.7 14.3-32 32-32h96V64z"/></svg> **Level:** Beginner  
 >
 > <i class="fa fa-arrow-left"></i> **Prerequisites**  
 > To be able to follow this course, learners should have knowledge in:
 > 
-> 1. Basic knowlegde of HTML  
-> 2. Basic knowledge of ...
-> 3. Being comfortable working with ....  
+> 1. No prior knowledge of Machine Learning or coding expertise is required
+> 2. Basic knowledge of R could be beneficial
+> 3. Being comfortable working with the web browser  
 >
-> <i class="fa fa-bookmark"></i> **Description**  This course consist of .....
+> <i class="fa fa-bookmark"></i> **Description**  Over the last few months, the rapid establishment of generative AI and Large Language Models (LLM) has opened new frontiers in a variety of domains. This hands-on class aims to provide you the necessary skills to effectively use this cutting-edge technology in a interdisciplinary way. With two formats of participation possible, we wish to offer opportunities for everyone to build enough knowledge to a variety of applications. In the morning you will follow an introduction on ethics, ownership and general hands-on application of generative AI that can be used holistically. This is meant for anyone including admin, support, and others to use for their work or personal interests. After a general view, we will navigate deeper in the use of generative AI for research, from scientific writing to analysis, we will introduce how genAI can be supportive in this process. We will cover different aspects of using ChatBots powered with LLMs, including the ethical and ownership aspects, the theoretical background and several examples of practical application among which how to strategically prompt your request for text generation in any context,  how to generate high-quality content for research papers, and grant applications.
 > 
 > <i class="fa fa-arrow-right"></i> **Learning Outcomes:**  
 > By the end of the course, learners will be able to:
 >
-> 1. Define what ..... [Remembering] 
->
-> 2. Discuss and explain ..... [Understanding] 
->
-> 3. Apply and modify ..... [Applying] 
->
-> 4. Compare ..... [Analysing] 
->
-> 5. Evaluate and select ..... [Evaluating] 
->
-> 6. Create and integrate ..... [Creating]
+> 1. Providing a background of the evolution of generative AI models
+> 2. Providing an overview of the features and capabilities of genAI
+> 3. Analysing prompt engineering techniques for different purposes
+> 4. Exploring several applications of genAI in academic research (afternoon session) 
+> 5. Providing hands-on experience with using different genAI tools for work and research purposes
+> 6. Critically evaluating the AI generated outcomes
 >
 >> Check more about [Bloom's taxonomy](https://cft.vanderbilt.edu/guides-sub-pages/blooms-taxonomy/) to categorize the levels in educational goals
 >
-> <i class="fa fa-hourglass"></i> **Time estimation**: 120 minutes
+> <i class="fa fa-hourglass"></i> **Time estimation**: 360 minutes
 >
-> <i class="fa fa-asterisk"></i> **Requirements:** The (technical) installation requirements are described in the [installations](https://vibbits-nextflow-workshop.readthedocs.io/en/latest/installations.html) section.
+> <i class="fa fa-asterisk"></i> **Requirements:** The (technical) installation requirements are described in the Chapters overview section Getting ready.
 >
 > <i class="fa fa-envelope-open-text"></i> **Supporting Materials**:
 > 
 > 1. [Exercises and solutions](https://github.com/vibbits/nextflow-workshop)
-> 2. [Slides]()  
+> 2. [Slides morning]()
+> 3. [Slides afternoon]()  
 > 
 > <i class="fa fa-life-ring"></i> **Acknowledgement**:
 >
 > * [ELIXIR Belgium](https://www.elixir-belgium.org/)
 > * [VIB Technologies](https://www.vib.be/)
 >
-> <i class="fa fa-money-bill"></i> **Funding:** This project has received funding from the ELIXIR Programme 2022-2023.
+> <i class="fa fa-money-bill"></i> **Funding:** This project has received funding from VIB.
 >
 > <i class="fa fa-anchor"></i> **PURL**:  
 
@@ -202,28 +198,26 @@ Schedule day 1:
 
 Authors
 
-- [Name](@[orcid](https://orcid.org/XXXX)
+- [Bruna Piereck](@[orcid](https://orcid.org/0000-0001-5958-0669)
+- [Alexander Botzki](@[orcid](https://orcid.org/0000-0001-6691-4233)
 
 Contributors
 
-- [Name](@[orcid](https://orcid.org/XXXY))
-- [Name](@[orcid](https://orcid.org/XXXZ))
-- [Name](@[orcid](https://orcid.org/XXXA))
+- we welcome contributors for these materials
 
 ## Citing this lesson
 
 Please cite as:
 
-  1. ...
+  1. to be added once we have released the first version
 
 # Chapters List
 
 | Chapter | Title                                                   |
 | :---- | :------------------------------------------------         |
-| 0     | [Get ready for the course, instalation and pre-reading](link) |
-| 1     | [Chapter title](link)                                             |
-| 2     | [Chapter title](link)                                             |
-| 3     | [Chapter title](link)                                             |
+| 0     | [Get ready for the course, instalation and pre-reading](https://liascript.github.io/course/?https://raw.githubusercontent.com/vibbits/introduction-to-generative-ai/refs/heads/main/Chapters/GetReady4training.md) |
+| 1     | [Strategic use of generative AI for all](https://liascript.github.io/course/?https://raw.githubusercontent.com/vibbits/introduction-to-generative-ai/refs/heads/main/Chapters/Chapter01.md)                                             |
+| 2     | [Strategic use of generative AI for research](https://liascript.github.io/course/?https://raw.githubusercontent.com/vibbits/introduction-to-generative-ai/refs/heads/main/Chapters/Chapter02.md)                                             |
 
 
 # References
