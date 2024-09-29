@@ -2,12 +2,7 @@
 
 - Open your browser and surf to https://copilot.microsoft.com
 
-Judge graphical abstracts:
-
-- Main Idea: The central argument or point of the paragraph.
-- Evidence: Supporting details, facts, or data that back up the main idea.
-- Analysis: Explanation of how the evidence supports the main idea.
-- Link: Connection to the next paragraph or overall thesis.
+Evaluate a graphical abstracts
 
 Use this paper as an example: 
 https://wires.onlinelibrary.wiley.com/doi/full/10.1002/widm.1550

@@ -1,5 +1,7 @@
 # Exercise 9:
 
+Create a mindmap diagram and visualise it with Mermaid
+
 - Open your browser and surf to https://claude.ai 
 
 1. Upload the PDF downloaded from https://doi.org/10.1080/02602938.2024.2386662 to Claude.
