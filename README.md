@@ -181,7 +181,7 @@ Schedule day 1:
 > 
 > 1. [Exercises and solutions](https://github.com/vibbits/introduction-to-generative-ai)
 > 2. [Slides morning]()
-> 3. [Slides afternoon]()  
+> 3. [Slides afternoon](https://docs.google.com/presentation/d/1JqhCPUzYKDozP9xKrhSmgtew5FsKz8KW/edit?usp=sharing&ouid=102044173704117471327&rtpof=true&sd=true)  
 > 
 > <i class="fa fa-life-ring"></i> **Acknowledgement**:
 >
