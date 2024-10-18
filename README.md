@@ -116,7 +116,7 @@ Example image to ilustrate the front page of the material. This image was design
 
 Over the last few months, the rapid establishment of generative AI and Large Language Models (LLM) has opened new frontiers in a variety of domains. This hands-on class aims to provide you the necessary skills to effectively use this cutting-edge technology in a interdisciplinary way. With two formats of participation possible, we wish to offer opportunities for everyone to build enough knowledge to a variety of applications. In the morning you will follow an introduction on ethics, ownership and general hands-on application of generative AI that can be used holistically. This is meant for anyone including admin, support, and others to use for their work or personal interests. After a general view, we will navigate deeper in the use of generative AI for research, from scientific writing to analysis, we will introduce how genAI can be supportive in this process. We will cover different aspects of using ChatBots powered with LLMs, including the ethical and ownership aspects, the theoretical background and several examples of practical application among which how to strategically prompt your request for text generation in any context, how to generate high-quality content for research papers, and grant applications.
 
-The **presentations** which goes alongside this material can be found [in the Lesson overview: Slides](#2) .
+The **presentations** which goes alongside this material can be found [in the Lesson overview: Slides](https://drive.google.com/drive/folders/1F6KW94prIIrB-dpbSJYvxbcXxqBZFfeS?usp=drive_link) .
 
 ## Proposed Schedule
 
@@ -180,7 +180,7 @@ Schedule day 1:
 > <i class="fa fa-envelope-open-text"></i> **Supporting Materials**:
 > 
 > 1. [Exercises and solutions](https://github.com/vibbits/introduction-to-generative-ai)
-> 2. [Slides morning]()
+> 2. [Slides morning](https://docs.google.com/presentation/d/1zp-BRONJo-glWBHddJOUuNz8g2NvCLo92lKGnzfy_SI/edit?usp=sharing)
 > 3. [Slides afternoon](https://docs.google.com/presentation/d/1JqhCPUzYKDozP9xKrhSmgtew5FsKz8KW/edit?usp=sharing&ouid=102044173704117471327&rtpof=true&sd=true)  
 > 
 > <i class="fa fa-life-ring"></i> **Acknowledgement**:
