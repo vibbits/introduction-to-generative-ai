@@ -114,33 +114,21 @@ Example image to ilustrate the front page of the material. This image was design
 
 ## General context
 
-Over the last few months, the rapid establishment of generative AI and Large Language Models (LLM) has opened new frontiers in a variety of domains. This hands-on class aims to provide you the necessary skills to effectively use this cutting-edge technology in a interdisciplinary way. With two formats of participation possible, we wish to offer opportunities for everyone to build enough knowledge to a variety of applications. In the morning you will follow an introduction on ethics, ownership and general hands-on application of generative AI that can be used holistically. This is meant for anyone including admin, support, and others to use for their work or personal interests. After a general view, we will navigate deeper in the use of generative AI for research, from scientific writing to analysis, we will introduce how genAI can be supportive in this process. We will cover different aspects of using ChatBots powered with LLMs, including the ethical and ownership aspects, the theoretical background and several examples of practical application among which how to strategically prompt your request for text generation in any context, how to generate high-quality content for research papers, and grant applications.
+Over the last few months, the rapid establishment of generative AI and Large Language Models (LLM) has opened new frontiers in a variety of domains. This short workshop aims to introduce some theory of prompting to improve your experience. After a  brief explanaiton of what "promtping engineering" is we quickly dive in to trying it out. The group will decide what we will prompt and make the first prompt. After the first result 2 techniques will be introduced and we can try again. In the end we can discuss if there wwas improvement and what is best applicable for the choosen example.
 
-The **presentations** which goes alongside this material can be found [in the Lesson overview: Slides](https://drive.google.com/drive/folders/1F6KW94prIIrB-dpbSJYvxbcXxqBZFfeS?usp=drive_link) .
+The **presentations** which goes alongside this material can be found [in the Lesson overview: Slides](link) .
 
 ## Proposed Schedule
 
-Schedule day 1:
+Course Plan:
 
-- 9:30 - 11:00 - session Introduction to Generative AI
-   - Brief historical background: from first AI to generative AI
-   - Mapping generative AI tools
-   - Focus on Large Language Models (LLMs)
-- 11:00 - 11:15 - break
-- 11:15 - 12:45 - session Introduction to Generative AI
-   - Tools for genAI (CoPilot, Perplexity and other competitors)
-   - Prompt engineering
-   - Ethical considerations
-   - Ownership, copyright and authenticity
-- 12:45 - 13:45 - lunch
-- 13:45 - 15:15 - session Generative AI for Writing
-   - Conducting a literature review
-   - Finding research gaps
-   - Writing an article (storytelling, etc.)
-   - Presenting the outcome
-- 15:15 - 15:30 - break
-- 15:30 - 17:00 - session Generative AI for Scripting
-   - Doing quantitative research
+10 min - Make groups and come up with a draft prompt in a topic they wish (working mail, general information, image creation).
+05 min - Share the ideas and choose one to continue toguether.
+05 min - Type it in and discuss result quality and expectation.
+10 min - Explain one prompt technique and iteration strategy.
+05 min - Try the new technique
+10 min - Evaluate and explain a second technique
+05 min - evaluate and draw conclusions.
 
 </section>
 
@@ -148,34 +136,28 @@ Schedule day 1:
 
 > <i class="fa fa-lock"></i> **License:** [Creative Commons Attribution 4.0 International  License](https://creativecommons.org/licenses/by/4.0/deed.en)
 >
-> <i class="fa fa-user"></i> **Target Audience:** Researchers
+> <i class="fa fa-user"></i> **Target Audience:** Everyone
 >
 > <svg xmlns="http://www.w3.org/2000/svg" height="14" width="16" viewBox="0 0 576 512"><!--!Font Awesome Free 6.5.1 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free Copyright 2023 Fonticons, Inc.--><path d="M384 64c0-17.7 14.3-32 32-32H544c17.7 0 32 14.3 32 32s-14.3 32-32 32H448v96c0 17.7-14.3 32-32 32H320v96c0 17.7-14.3 32-32 32H192v96c0 17.7-14.3 32-32 32H32c-17.7 0-32-14.3-32-32s14.3-32 32-32h96V320c0-17.7 14.3-32 32-32h96V192c0-17.7 14.3-32 32-32h96V64z"/></svg> **Level:** Beginner  
 >
 > <i class="fa fa-arrow-left"></i> **Prerequisites**  
 > To be able to follow this course, learners should have knowledge in:
 > 
-> 1. No prior knowledge of Machine Learning or coding expertise is required
-> 2. Basic knowledge of R could be beneficial
-> 3. Being comfortable working with the web browser  
+> 1. None 
 >
-> <i class="fa fa-bookmark"></i> **Description**  Over the last few months, the rapid establishment of generative AI and Large Language Models (LLM) has opened new frontiers in a variety of domains. This hands-on class aims to provide you the necessary skills to effectively use this cutting-edge technology in a interdisciplinary way. With two formats of participation possible, we wish to offer opportunities for everyone to build enough knowledge to a variety of applications. In the morning you will follow an introduction on ethics, ownership and general hands-on application of generative AI that can be used holistically. This is meant for anyone including admin, support, and others to use for their work or personal interests. After a general view, we will navigate deeper in the use of generative AI for research, from scientific writing to analysis, we will introduce how genAI can be supportive in this process. We will cover different aspects of using ChatBots powered with LLMs, including the ethical and ownership aspects, the theoretical background and several examples of practical application among which how to strategically prompt your request for text generation in any context,  how to generate high-quality content for research papers, and grant applications.
+> <i class="fa fa-bookmark"></i> **Description**  Over the last few months, the rapid establishment of generative AI and Large Language Models (LLM) has opened new frontiers in a variety of domains. This short workshop aims to introduce some theory of prompting to improve your experience. After a  brief explanaiton of what "promtping engineering" is we quickly dive in to trying it out. The group will decide what we will prompt and make the first prompt. After the first result 2 techniques will be introduced and we can try again. In the end we can discuss if there wwas improvement and what is best applicable for the choosen example.
 > 
 > <i class="fa fa-arrow-right"></i> **Learning Outcomes:**  
 > By the end of the course, learners will be able to:
 >
-> 1. Providing a background of the evolution of generative AI models
-> 2. Providing an overview of the features and capabilities of genAI
-> 3. Analysing prompt engineering techniques for different purposes
-> 4. Exploring several applications of genAI in academic research (afternoon session) 
-> 5. Providing hands-on experience with using different genAI tools for work and research purposes
-> 6. Critically evaluating the AI generated outcomes
+> 1. Explanining what is prompt engineering
+> 2. Applying one or two new promting tecniques
 >
 >> Check more about [Bloom's taxonomy](https://cft.vanderbilt.edu/guides-sub-pages/blooms-taxonomy/) to categorize the levels in educational goals
 >
-> <i class="fa fa-hourglass"></i> **Time estimation**: 360 minutes
+> <i class="fa fa-hourglass"></i> **Time estimation**: 60 minutes
 >
-> <i class="fa fa-asterisk"></i> **Requirements:** The (technical) installation requirements are described in the Chapters overview section Getting ready.
+> <i class="fa fa-asterisk"></i> **Requirements:** Having a computer is good.
 >
 > <i class="fa fa-envelope-open-text"></i> **Supporting Materials**:
 > 
