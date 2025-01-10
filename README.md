@@ -122,14 +122,14 @@ The **presentations** which goes alongside this material can be found [in the Le
 
 Course Plan:
 
-          10 min - Make groups and come up with a draft prompt in a topic they wish (working mail, general information, image creation).
-          05 min - Share the ideas and choose one to continue toguether.
-          05 min - Type it in and discuss result quality and expectation.
-          10 min - Explain one prompt technique and iteration strategy.
-          05 min - Try the new technique
-          10 min - Evaluate and explain a second technique
-          05 min - evaluate and draw conclusions.
-
+          05 min for arrivals
+          15 min - Shortly: Intro & Ethics
+          10 min - What is prompt engineering and "bad loops" (prompt is stuck in one idea)
+          10 min - Examples of prompt engineering
+          10 min - Demo one example dictated by the group
+          01 min - Communicate about original course
+          9 min - Spare for questions during the interaction
+          
 </section>
 
 # Lesson overview
