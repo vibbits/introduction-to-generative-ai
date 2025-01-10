@@ -128,7 +128,7 @@ Course Plan:
           10 min - Examples of prompt engineering
           10 min - Demo one example dictated by the group
           01 min - Communicate about original course
-          9 min - Spare for questions during the interaction
+          09 min - Spare for questions during the interaction
           
 </section>
 
