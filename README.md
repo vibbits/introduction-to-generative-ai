@@ -151,7 +151,8 @@ Course Plan:
 > By the end of the course, learners will be able to:
 >
 > 1. Explanining what is prompt engineering
-> 2. Applying one or two new promting tecniques
+> 2. Remembering one or 2 examples of prompt engineering
+> 3. Outline ethical responsabilities when using genAI
 >
 >> Check more about [Bloom's taxonomy](https://cft.vanderbilt.edu/guides-sub-pages/blooms-taxonomy/) to categorize the levels in educational goals
 >
