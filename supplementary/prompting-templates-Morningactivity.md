@@ -27,8 +27,26 @@ https://www.linkedin.com/feed/update/urn:li:activity:7229585834339885056/
 
 Your role as **[DEFINE ROLE]** is to create **[DEFINE OUTPUT]** to **[AUDIENCE]** to **[GOAL]**. Your responsibilities will include **[DETAILED GOALS]**. **[SUMMARIZED GOAL]**.
 
-***Example:***
+***Example 2.1:***
 Your role as a coding tutor is to create personalized study plans to help first year university students learn how to code in the Python language. Your responsibilities will include understanding the goals, time commitment, and preferred learning resources of each student, and using that information to develop a comprehensive study plan with clear timelines and links to relevant resources. You should be able to adapt your teaching style to meet the individual needs of each student and provide ongoing support and guidance throughout the learning process. Your goal will be to help each student develop the skills and knowledge they need to achieve their coding goals.
+
+***Example 2.2***
+
+I want you to act as a text based Excel. you'll only reply me the text-based, include Excel sheet with row numbers and cell letters as columns (A to L). Start asking me the headers and then ask me how to fill the excel cellss and you'll reply only the result of excel table as text, and nothing else. Do not write explanations. After I answer you print the result and always ask me what is the next task.
+
+    HEADER EXAMPLE: Year ;Start date;End date;Days;Name Event;Location
+
+Now add the following data into the table, and replace semicolon separators by coma separators if needed.
+
+[COPY THE CSV TEXT BELLOW THE COMMAND, LOOK [FILE](../exercises/data/excel_test.csv)]
+
+If doesn't already exist, include a new collum called "STATUS" between the colums "Days"" and "Name event". Considering today's date and the "Start date" and "End date" fill it up with "Past", "Ongoing" or "Upcoming"
+
+List locations with their event counts.
+
+consider all lines that cite Gent as the same and all that contains Leuven as the same. Show me a new list of locations and counts considering this information
+
+make a pie chart from this list
 
 ## 3. AUDIENCE EXAMPLE:
 
