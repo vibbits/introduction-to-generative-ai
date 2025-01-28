@@ -21,6 +21,18 @@ Classify, Write, Summarize, Create, Brainstorm, Compare, Develop, Expand, Simpli
 Complementarity you can try to explain what you want from the verb:
 https://www.linkedin.com/feed/update/urn:li:activity:7229585834339885056/
 
+***Example 1.1***
+
+Rewrite the orignal session in Nederlands from Belgium. If you are not fluent, you can use translation tools to help you with this task.
+
+[Copy text or attach file]
+
+***Example 1.2***
+
+THIS EXAMPLE IS AN ITEREATION OF THE PREVIOUS
+
+Make a summary in Brazilian Portuguese. If you are not fluent, you can use translation tools to help you with this task.
+
 ## 2. ROLE PLAY EXAMPLE
 
 #### TEMPLATE
@@ -42,11 +54,19 @@ Now add the following data into the table, and replace semicolon separators by c
 
 If doesn't already exist, include a new collum called "STATUS" between the colums "Days"" and "Name event". Considering today's date and the "Start date" and "End date" fill it up with "Past", "Ongoing" or "Upcoming"
 
-List locations with their event counts.
+List locations with their event counts. Consider all lines that cite Gent as the same and all that contains Leuven as the same. Show me a list of locations and counts considering this information
 
-consider all lines that cite Gent as the same and all that contains Leuven as the same. Show me a new list of locations and counts considering this information
+make a pie chart from this list incluiding percentages and absolute numbers using darkviolet color.
 
-make a pie chart from this list
+***Example 2.3***
+
+I want you to act as an AI writing tutor. I will provide you with a documentation I wrote for my course and you need to help improving my writing. Your task is to use artificial intelligence tools, such as natural language processing, to give feedback on how the documentation can be improved for clarity. You should also use your rhetorical knowledge and experience about effective writing techniques in order to suggest ways to better express thoughts and ideas in written form.Before we start, great me and ask me to share the documentation. Once I share the file always finish the interaction asking me what should we review next?
+
+LOOK FOR FILE EXAMPLE  FILE - [tutorial.md](https://github.com/vibbits/introduction-github/blob/master/tutorials/1_Get_ready_for_the_course/tutorial.md)
+
+Print only the list of high level session [ANEX THE FILE IN THE PROMPT]
+
+
 
 ## 3. AUDIENCE EXAMPLE:
 
@@ -54,8 +74,11 @@ make a pie chart from this list
 
 Explain **[TOPIC]**. Assume I’m **[DEFINE AUDIENCE]**.
 
-***Example***
-Explain the aurora borealis. Assume I’m 5 years old.
+***Example 3.1***
+Explain what is Data, AI model and AI algorythim. Consider that I'm 75 years without technoogicla background. Make it clearm objective and short (maxmium 3 paragraphs, 5 lines each)
+
+Simplify it and make it for a 10 years old.
+
 
 
 ## 4. FLIPPED INTERACTION or INTERVIEW EXAMPLE
@@ -69,29 +92,17 @@ I want to create a workshop plan to develop a strategic plan for my organization
 
 ----
 
-#### 4.2 TEMPLATE (5 whys):
-
-Act like a **[ROLE]**. Begin by identifying the **[PROBLEM, CHALLENGE, GOALS]** related to **[TOPIC/OUTPUT]**. 
-Now, ask 'why?' this **[PROBLEM, CHALLENGE]** exists. ***OR*** Now, ask 'why?' **[WE WANT TO ACHIEVE THIS GOAL]**.
-
-Repeat the question 'why?' four more times, digging deeper into each layer to uncover the root cause. Summarize your findings and suggest potential solutions.
-
-***Example 2:***
-Act like a Root Cause Analyst. Begin by identifying the problem related to [topic]. Now, ask 'why?' this problem exists. Repeat the question 'why?' four more times, digging deeper into each layer to uncover the root cause. Summarize your findings and suggest potential solutions.
-
-----
-
-#### 4.3 TEMPLATE (WWW - identify Why, Who and What ):
+#### 4.2 TEMPLATE (WWW - identify Why, Who and What ):
 
 We would like to write about **[TOPIC]**. For this we would like to brainstorm with you.
 
 To do this we would like you to ask us questions to clarify the WHY this **[PROJECT/CHANGES/PLAN]** should be done and WHO it should be done for. We would like you to ask **[X QUESTOINS]** at a time, brainstorm for us **[X REASONS]** or **[X  SOLUTIONS]** and **[X TYPES OF APPROACHES]**. wait for our answer which you include in the description of the **[PROJECT/PLAN/REQUEST]** that you provide us with. Then we redo the whole circle again. Here is the information about the **[PROJECT/PLAN/REQUEST]**: **[INFO]**
 
-***Example 3:***
+***Example 2:***
 We would like to write about [topic]. For this we would like to brainstorm with you.
 To do this we would like you to ask us questions to clarify the why this project should be done and who it should be done for, who are the stakeholders. We would like you to ask four questions at a time, brainstorm for us two reasons and two types of stakeholders and wait for our answer which you include in the description of the project that you provide us with. Then we redo the whole circle again. Here is the information about the project: [info]
 
-## 5. STEER IN SPECIFIC DIRECTIONS
+## 5. STEER THE STYLE
 
 #### TEMPLATE (define style and list of words):
 
