@@ -95,7 +95,7 @@ I want to create a workshop plan to develop a strategic plan for my organization
 
 *** Example 2:***
 
-I need to create a detailed excel plan for all the events we offer. Help me define with columns can be must have, good to have or extra so we have a comprehensive view of the events. To guide me in the process ask me one question at a time and wait for me to answer before you ask again. After the first questions include a list of colums and the cell format in parenthesis, then ask a new question. If I answer NA (non applicable, ignnore the question)
+I need to create a detailed excel plan for all the events we offer. Help me define which columns can be must have, good to have or extra so we have a comprehensive view of the events. To guide me in the process ask me one question at a time and wait for me to answer before you ask again. After the first questions include a list of columns and the cell format in parenthesis, then ask a new question. If I answer NA (non applicable, ignore the question)
 
 ----
 
