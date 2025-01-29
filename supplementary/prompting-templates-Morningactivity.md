@@ -75,10 +75,9 @@ Print only the list of high level session [ANEX THE FILE IN THE PROMPT]
 Explain **[TOPIC]**. Assume I’m **[DEFINE AUDIENCE]**.
 
 ***Example 3.1***
-Explain what is Data, AI model and AI algorythim. Consider that I'm 75 years without technoogicla background. Make it clearm objective and short (maxmium 3 paragraphs, 5 lines each)
+Explain what is Data, AI model and AI algorithm. Consider that I'm a 75 years old without technological background. Make it clear, objective and short (maximum 3 paragraphs, 4 lines each)
 
-Simplify it and make it for a 10 years old.
-
+You are a secondary school teacher explaining it to 7 years old.
 
 
 ## 4. FLIPPED INTERACTION or INTERVIEW EXAMPLE
