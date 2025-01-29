@@ -77,7 +77,11 @@ Explain **[TOPIC]**. Assume I’m **[DEFINE AUDIENCE]**.
 ***Example 3.1***
 Explain what is Data, AI model and AI algorithm. Consider that I'm a 75 years old without technological background. Make it clear, objective and short (maximum 3 paragraphs, 4 lines each)
 
+- iteration
 You are a secondary school teacher explaining it to 7 years old.
+
+- iteration
+You are a AI developer expert explaining it to PhD students with a mathematics background
 
 
 ## 4. FLIPPED INTERACTION or INTERVIEW EXAMPLE
@@ -88,6 +92,10 @@ I want to create **[OUTPUT]**to **[GOAL]** for **[AUDIENCE]**. You should ask me
 
 ***Example 1:***
 I want to create a workshop plan to develop a strategic plan for my organization for the coming year. You should ask me questions until you have enough information to create the lesson plan. Ask one question at a time.
+
+*** Example 2:***
+
+I need to create a detailed excel plan for all the events we offer. Help me define with columns can be must have, good to have or extra so we have a comprehensive view of the events. To guide me in the process ask me one question at a time and wait for me to answer before you ask again. After the first questions include a list of colums and the cell format in parenthesis, then ask a new question. If I answer NA (non applicable, ignnore the question)
 
 ----
 
