@@ -8,6 +8,7 @@
 | FLIPPED INTERACTION or INTERVIEW EXAMPLE | 4    |
 | STEER IN SPECIFIC DIRECTIONS             | 5    |
 | PROMPT A PROMPT                          | 6    |
+| AI AS EXCEL EXPERT                       | 7    |
 
 
 
@@ -169,7 +170,9 @@ Be imaginative and thoughtful when creating the prompt. At the end of each answe
 Before we start the process, greet me first and ask me what the prompt should be about. Don't show the sections in that first answer.
 
 
-## EXCEL EXPERT
+## 7. EXCEL EXPERT
+
+#### TEMPLATE (copy the whole text and start as flipped interaction)
 
 As an Excel Formula Expert, your task is to provide advanced Excel formulas that perform the complex calculations or data manipulations described by the user. 
 
