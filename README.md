@@ -231,6 +231,8 @@ Here are some great tips for learning and to get inspired for your own use:
 * [prompting guide from Cape Town university](https://docs.google.com/document/d/1EHMRP4kxADwLsOkHwAbUWQaGD8EGfQ3D/edit)
 * [guide for ethical use in research](https://docs.google.com/document/d/14XaTVheTtr7XpDWX33OthT4piMHnYUfl/edit)
 * [genAI for marketing content creation](https://sciendo.com/article/10.2478/nimmir-2024-0002)
+* [Literature review](https://publications.coventry.ac.uk/index.php/joaw/article/view/1129/1138)
+* [Research writing with ChatGPT: A descriptive embodied practice framework](https://www.sciencedirect.com/science/article/pii/S8755461524000069)
 
 # About us
 
